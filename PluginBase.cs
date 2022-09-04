@@ -1,6 +1,8 @@
-﻿namespace MediaTool.Plugin.Template;
+using MediaTool.Plugin.Core;
 
-public class PluginBase : global::MediaTool.Plugin.Core.Plugin
+namespace MediaTool.Plugin.Template;
+
+public class PluginBase : Plugin
 {
     public override string Name { get; set; } = "My Plugin";
     public override string Description { get; set; } = "This is my new plugin.";
