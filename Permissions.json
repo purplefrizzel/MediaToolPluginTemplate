@@ -1,0 +1,6 @@
+{
+  "permissions": [
+    "mediatool.permissions.auth.current_user.read",
+    "mediatool.permissions.host.current_context.read"
+  ]
+}

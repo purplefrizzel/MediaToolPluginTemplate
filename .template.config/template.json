@@ -1,0 +1,13 @@
+{
+  "$schema": "https://json.schemastore.org/template",
+  "author": "The MediaTool Team",
+  "classifications": [ "Common", "Library", "Plugin", "MediaTool" ],
+  "identity": "MediaTool.Plugin.Template",
+  "name": "MediaTool Plugin Template",
+  "shortName": "MediaToolPluginTemplate",
+  "description": "This is a template for creating a MediaTool plugin.",
+  "tags": {
+    "language": "C#",
+    "type": "project"
+  }
+}
